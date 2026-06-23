@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
-<title>Search a myself - Sean Ki </title>
+Search a myself - Sean Ki 
 </head>
 <body>
 <a href="https://thekichan.github.io" target="_blank">

@@ -7,10 +7,9 @@ Search a myself - Sean Ki
 </head>
 <br>
 <br>
-<body>
+
 <a href="https://thekichan.github.io" target="_blank">
   Check out my resume
 </a>
 
-</body>
 </html>
